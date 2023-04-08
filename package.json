@@ -24,7 +24,7 @@
     "typescript": "^5.0.2"
   },
   "dependencies": {
-    "mssql": "^7.3.5",
-    "typeorm": "^0.3.12"
+    "mssql": "^9.1.1",
+    "typeorm": "^0.3.13"
   }
 }
