@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "mssql": "^7.3.5",
-    "typeorm": "^0.3.12"
+    "typeorm": "^0.3.14"
   }
 }
